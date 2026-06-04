@@ -10,7 +10,6 @@ Open-source ticket management platform with Telegram, Discord and Web integratio
 * [Features](#features)
 * [Use Cases](#use-cases)
 * [Tech Stack](#tech-stack)
-
   * [Backend](#backend)
   * [Frontend](#frontend)
   * [Database](#database)
@@ -18,20 +17,17 @@ Open-source ticket management platform with Telegram, Discord and Web integratio
 * [Architecture](#architecture)
 * [Project Structure](#project-structure)
 * [API Documentation](#api-documentation)
-
   * [Authentication](#authentication)
   * [Tickets](#tickets)
   * [Projects](#projects)
 * [Installation](#installation)
 * [Quick Start](#quick-start)
 * [Configuration](#configuration)
-
   * [Environment Variables](#environment-variables)
   * [Telegram Setup](#telegram-setup)
   * [Discord Setup](#discord-setup)
 * [Docker](#docker)
 * [Development](#development)
-
   * [Requirements](#requirements)
   * [Local Setup](#local-setup)
 * [Contributors](#contributors)
