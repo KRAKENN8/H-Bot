@@ -61,6 +61,26 @@ Not defined
 
 Not defined
 
+## Infrastructure
+
+1 server (Linux, cloud, 8 GB RAM)
+
+## Software
+
+* Visual Studio free version
+* Docker free version
+* Postgres free version
+* GitHub free version
+* Figma student version
+* PyCharm student version
+* Draw.io free version
+* Chat GPT free version
+
+## External services
+* Domain tasuta.ee
+* AWS cloud
+
+
 ### Backend
 
 Not defined
