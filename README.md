@@ -73,7 +73,7 @@ Not defined
 * Chat GPT free version
 
 ## External services
-* Domain tasuta.ee
+* Domain 
 * AWS cloud
 
 ---
