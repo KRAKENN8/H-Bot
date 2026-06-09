@@ -115,15 +115,14 @@ Not ready
 
 ---
 
-
 ## Dependencies
 
-Docker 24+,
-Python 3.12,
-PostgreSQL 15,
-Next.js 16,
-TypeScript 5.9,
-Node.js 22 LTS,
+- Docker 24+
+- Python 3.12
+- PostgreSQL 15
+- Next.js 16
+- TypeScript 5.9
+- Node.js 22 LTS
 
 ---
 ## How to Start
