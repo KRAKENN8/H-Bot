@@ -57,10 +57,6 @@ Not defined
 
 ---
 
-## Tech Stack
-
-Not defined
-
 ## Infrastructure
 
 1 server (Linux, cloud, 8 GB RAM)
@@ -80,6 +76,11 @@ Not defined
 * Domain tasuta.ee
 * AWS cloud
 
+---
+
+## Tech Stack
+
+Not defined
 
 ### Backend
 
