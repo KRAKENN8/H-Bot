@@ -82,7 +82,7 @@ Not defined
 | Employee - Developer 1/Project Manager 1 | 100 hr | 37.5 €/hr | 4 500 € |
 | Employee - Developer 2/Project Manager 2 | 100 hr | 37.5 €/hr | 4 500 € |
 | Server Rental (Cloude, 1 year)  | 12 months  | 72 €/year | 72 € |
-| Domain (.com, 1 year) | 12 months | 8.37 € | 8.37 € |
+| Domain (.com, 1 year) | 12 months | 8.37 €/year | 8.37 € |
 
 ---
 
